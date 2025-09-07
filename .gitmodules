@@ -5,6 +5,3 @@
 [submodule "eq5dsuite"]
 	path = eq5dsuite
 	url = https://github.com/mathsinhealth/eq5dsuite
-[submodule "valueSetCompare"]
-	path = valueSetCompare
-	url = https://github.com/mathsinhealth/valuesetcompare
